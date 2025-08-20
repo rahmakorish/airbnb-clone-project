@@ -27,3 +27,23 @@ Secondary Text: Circular, Book (400), 14px
 
 Project Roles and Responsibilities:
 frontend develope: Rahma Korish => create a responsive, clean and appealing design for the website
+
+UI Component Patterns:
+Planned Components
+Navbar:
+        Logo
+        Search bar
+        User navigation
+        Responsive menu
+
+Property Card:
+        Property image
+        Basic details (price, location, rating)
+        Favorite button
+        Responsive layout
+
+Footer:
+        Site links
+        Company information
+        Social media links
+        Copyright information
